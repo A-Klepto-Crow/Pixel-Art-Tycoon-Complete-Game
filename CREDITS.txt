@@ -1,0 +1,29 @@
+Pixel Art Tycoon
+Version 1.0
+
+Created by John Cameron Stage
+
+----- Credits -----
+
+Game Design and Programming:
+John Cameron Stage
+
+Art and Assets:
+https://limezu.itch.io/
+
+----- Special Thanks -----
+
+Beta Testing:
+Christian Mickelson
+
+----- Software Used -----
+
+Developed using Python and Pygame
+
+Created by John Cameron Stage
+
+This game is a work of fiction. Names, characters, places, and incidents either are products of the author's imagination or are used fictitiously. Any resemblance to actual persons, living or dead, events, or locales is entirely coincidental.
+
+For questions or inquiries, please contact: j.cstage33@yahoo.com
+
+Thank you for playing!
